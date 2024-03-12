@@ -1,0 +1,5 @@
+/env_openai
+/local
+.env 
+/__pycache__
+
